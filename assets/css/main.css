@@ -1514,6 +1514,15 @@
     margin-bottom: 0;
 }
 
+.policy__address-text--last a{
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.policy__address-text--last a:hover{
+    color: var(--primary-color);
+}
+
 
 
 
